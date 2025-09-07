@@ -1,0 +1,17 @@
+{
+    "name": "my-node-app",
+    "version": "1.0.0",
+    "description": "Sample Node.js app for Jenkins DevSecOps demo",
+    "scripts": {
+      "start": "node index.js",
+      "test": "mocha",
+      "lint": "eslint .",
+      "audit": "npm audit"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "mocha": "^10.2.0",
+      "eslint": "^8.50.0"
+    }
+  }
+  
