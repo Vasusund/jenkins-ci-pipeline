@@ -10,3 +10,4 @@ function subtract(a, b) {
 console.log("Sample App Running...");
 
 module.exports = { add, subtract };
+console.log("Hello World!")
